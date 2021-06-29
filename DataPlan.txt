@@ -8,3 +8,25 @@ Person
     EmailAdress(string)
     CellphoneNumber(string)
 
+Tournament
+    TournamentName(string)
+    EntryFee(decimal)
+    EnteredTeams(List<Team>)
+    Prizes(List<Prize>)
+    Rounds(List<List<Matchup>>)
+
+Prize
+    PlaceNumber(int)
+    PlaceName(string)
+    PrizeAmount(decimal)
+    PrizePercentage(double)
+
+Matchup
+    Entries(List<MatchupEntry>)
+    Winner(Team)
+    MatchupRound(int)
+
+MatchupEntry
+    TeamCompeting(Team)
+    Score(double)
+    ParentMatchup(Matchup)
