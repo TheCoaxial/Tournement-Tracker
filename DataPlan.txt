@@ -1,0 +1,10 @@
+Team
+    TeamMembers(List<Person>)
+    TeamName(string)
+
+Person
+    Firstname(string)
+    Lastname(string)
+    EmailAdress(string)
+    CellphoneNumber(string)
+
