@@ -40,3 +40,6 @@ All members should be treated as equals
 
 Teams should be able to name their Team
 
+Structure: Windows Forms application and Class Library
+Data: SQL and/or Text file
+Users: One at a time on one application
