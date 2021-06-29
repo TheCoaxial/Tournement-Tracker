@@ -1,0 +1,42 @@
+Tracks Games played and their outcome
+
+Multiple competitors
+
+Creates a tournament plan
+
+Schedules Games
+
+single loss elminates a player  
+
+last player standing wins
+
+Ordering should be random
+
+Games should be played in whatever order and whenever the players want to play them
+
+not scheduled Games
+
+Each round should be fully completed before the next round is displayed
+
+Storing a simple score would be nice. Just a number for each player. 
+
+Desktop system for now, may want to turn it into an app or website later on
+
+ideally the data should be stored in Microsoft SQL database but also put an option to store to a text file instead
+
+The tournament should have the option of charging an entry fee. Prizes should also be an option.
+
+A simple report specifying the outcome of games per round
+
+Anyone using the application should be able to fill in the game scores
+
+No varying levels of access
+
+The system should email users that they are due to play in a round as well as who they are scheduled to play
+
+Tracker should be able to handle the addition of other members. 
+
+All members should be treated as equals
+
+Teams should be able to name their Team
+
