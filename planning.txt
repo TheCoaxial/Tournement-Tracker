@@ -43,3 +43,12 @@ Teams should be able to name their Team
 Structure: Windows Forms application and Class Library
 Data: SQL and/or Text file
 Users: One at a time on one application
+
+Key Concepts
+Email
+SQL
+Custom Events
+Error Handling
+Interfaces
+Random Ordering
+Texting
